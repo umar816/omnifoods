@@ -24,7 +24,7 @@ function stickyNav(){
         // adding class to  sticky to navElement 
         navElement.classList.add("sticky");
     }else{
-        // removing class sticky from navElement
+        // removing class sticky from navElement-
         navElement.classList.remove("sticky");
     }  
 }
